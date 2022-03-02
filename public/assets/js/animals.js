@@ -22,7 +22,6 @@ const printResults = resultArr => {
   $displayArea.innerHTML = animalHTML.join('');
 };
 
-// ----- Input Form Function to Add a New Animal ------ //
 const getAnimals = (formData = {}) => {
   let queryUrl = '/api/animals?';
 
@@ -45,7 +44,6 @@ const getAnimals = (formData = {}) => {
     });
 };
 
-// ---- Gathers all the Form input data Passes to getAnimals Function ---- //
 const handleGetAnimalsSubmit = event => {
   event.preventDefault();
   const dietRadioHTML = $animalForm.querySelectorAll('[name="diet"]');
