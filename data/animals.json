@@ -306,6 +306,15 @@
         "hungry"
       ],
       "id": "32"
+    },
+    {
+      "name": "Kitty",
+      "species": "Tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "33"
     }
   ]
 }
