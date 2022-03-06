@@ -1,4 +1,5 @@
-# zookeepr
+![ZooKeepr_🐅🦓🦒](https://user-images.githubusercontent.com/95327275/156937539-d67638cb-e44c-4731-9a67-78c8d6af676e.png)
+
 <img width="960" alt="zoo-keeper" src="https://user-images.githubusercontent.com/95327275/156834144-6b68ffcd-7dcd-4d2f-a06f-b54d410aabdb.png">
 
 # Table of Contents
